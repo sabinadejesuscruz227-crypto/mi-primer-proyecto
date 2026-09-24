@@ -1,2 +1,2 @@
 # mi-primer-proyecto
-proyectó base 
+proyecto base
